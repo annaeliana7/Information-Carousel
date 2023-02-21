@@ -44,7 +44,13 @@
 **Information-Carousel**
 <br>
 
-The Information-Carousel repo is a project with a carousel and a "read more" popup section. It was built using HTML, CSS, JavaScript, Webpack, and linters, and adheres to best practices. The carousel displays three cards at a time on the desktop version and one card on the mobile version, with navigation arrows. Additionally, the repo includes "Our Services," which displays five cards on the desktop version and stacked on the mobile version. Each card has an icon and a brief description.
+The Information-Carousel repo is a project with a carousel and a "read more" popup section. It was built using HTML, CSS, JavaScript, Webpack, and linters, and adheres to best practices. The carousel displays three cards at a time on the desktop version and one card on the mobile version, with navigation arrows. 
+
+<br>
+
+Additionally, the repo includes "Our Services," which displays five cards on the desktop version and stacked on the mobile version. Each card has an icon and a brief description.
+
+<br>
 
 These features can be used in new repositories or web pages.
 
@@ -61,7 +67,7 @@ These features can be used in new repositories or web pages.
 
 ## Project Demo Image
 <br>
-<img align="center" src="assets-README/project_demo.png" alt="logo" width="100%"  height="auto" />
+<img align="center" src="assets-README/project_demo_1.png" alt="logo" width="100%"  height="auto" />
 
   <br/>
 
