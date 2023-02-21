@@ -11,7 +11,7 @@ const carouselDots = document.querySelector('.carousel-dots');
 // Calculate the width of the carousel item
 let carouselWidth;
 if (window.innerWidth <= 768) {
-  carouselWidth = carousel.clientWidth - 5;
+  carouselWidth = carousel.clientWidth - 7;
 } else {
   carouselWidth = carousel.clientWidth / 3;
 }
