@@ -39,16 +39,27 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 NAME OF PROJECT<a name="about-project"></a>
+# 📖 Information-Carousel<a name="about-project"></a>
 
-**Name of Project** is a project ...complete sentence
+**Information-Carousel**
+<br>
+
+The Information-Carousel repo is a project with a carousel and a "read more" popup section. It was built using HTML, CSS, JavaScript, Webpack, and linters, and adheres to best practices. The carousel displays three cards at a time on the desktop version and one card on the mobile version, with navigation arrows. 
+
+<br>
+
+Additionally, the repo includes "Our Services," which displays five cards on the desktop version and stacked on the mobile version. Each card has an icon and a brief description.
+
+<br>
+
+These features can be used in new repositories or web pages.
 
 <br>
 
 ## 🛠 Built With <a name="built-with"></a>
     HTML
     CSS
-    Javascript (ES6)
+    Javascript
     Webpack
     Linters
 
@@ -56,13 +67,13 @@
 
 ## Project Demo Image
 <br>
-<img align="center" src="assets-README/project_demo.png" alt="logo" width="100%"  height="auto" />
+<img align="center" src="assets-README/project_demo_1.png" alt="logo" width="100%"  height="auto" />
 
   <br/>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Name of Project](https://ADD LINK.git)
+[Information-Carousel](https://annaeliana7.github.io/Information-Carousel/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,9 +84,9 @@
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone `https://github.com/annaeliana7/ADD LINK.git`
+- On the terminal run this command git clone `https://github.com/annaeliana7/Information-Carousel.git`
 
-- Go to the repository folder using command prompt cd `NAME OF PROJECT`
+- Go to the repository folder using command prompt cd `Information-Carousel`
 
 - Install the dev dependencies for linters run npm install.
 
@@ -96,9 +107,9 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://ADD LINK.git
+- On the terminal run this command git clone https://github.com/annaeliana7/Information-Carousel.git
 
-- Go to the repository folder using command prompt cd NAME-OF-FILE
+- Go to the repository folder using command prompt cd Information-Carousel
 
 - Install the dev dependencies for linters run npm install.
 --->
@@ -119,9 +130,7 @@ Anna Petras
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Implement some UX improvements: added transitions and/or animation.
-
-- Implement additional pages.
+- Implement some UX improvements
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +139,7 @@ Anna Petras
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://ADD LINK.git).
+Feel free to check the [issues page](https://github.com/annaeliana7/Information-Carousel/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
