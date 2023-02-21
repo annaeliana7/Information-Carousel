@@ -13,7 +13,7 @@ let carouselWidth;
 if (window.innerWidth <= 768) {
   carouselWidth = carousel.clientWidth - 5;
 } else {
-  carouselWidth = carousel.clientWidth / 5;
+  carouselWidth = carousel.clientWidth / 3;
 }
 
 const carouselPadding = carousel.clientWidth - carouselWidth * carouselItem.length;
