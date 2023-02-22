@@ -5,6 +5,8 @@
   padding: 0;
 }
 
+/* ******* information carousel ******* */
+
 /* title */
 .titlepage {
   margin-top: 50px;
@@ -196,7 +198,8 @@
   } */
 }
 
-/* services  */
+/* ******* services section ******* */
+
 .services-content {
   display: flex;
   flex-direction: column;
