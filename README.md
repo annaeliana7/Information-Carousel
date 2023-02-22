@@ -67,7 +67,7 @@ These features can be used in new repositories or web pages.
 
 ## Project Demo Image
 <br>
-<img align="center" src="assets-README/project_demo_1.png" alt="logo" width="100%"  height="auto" />
+<img align="center" src="assets-README/project__demo.png" alt="logo" width="100%"  height="auto" />
 
   <br/>
 
