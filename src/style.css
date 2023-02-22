@@ -129,7 +129,7 @@
     width: 80%;
     margin: 12px;
     position: relative;
-
+    
     /* overflow-x: scroll; */
     padding: 0 15px;
     margin-top: 0;
@@ -205,11 +205,7 @@
   padding-bottom: 59px;
 }
 
-.program-title,
-.testimonial-title,
-.partner-title,
-.logo-title,
-.events-title {
+.program-title {
   padding: 32px;
   display: flex;
   flex-direction: column;
