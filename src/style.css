@@ -3,6 +3,55 @@
   padding: 0;
 }
 
+/* ******* banner ******* */
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,100,700,900);
+
+h1,
+p,
+a {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+.header h1 {
+  font-size: 2.8em;
+  padding: 10px 0;
+  font-weight: 800;
+}
+
+.header p {
+  font-size: 1.1em;
+  font-weight: 100;
+  letter-spacing: 5px;
+}
+
+.header {
+  width: 100%;
+  padding: 60px 0;
+  text-align: center;
+  background: #404040c8;
+  color: white;
+  margin-bottom: 100px;
+}
+
+.btn-action {
+  font-size: 20px;
+  display: inline-block;
+  border: 1px solid white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 300;
+  margin-top: 30px;
+}
+
+.btn-action:hover {
+  background-color: white;
+  color: #3cc;
+}
+
 /* ******* information carousel ******* */
 
 /* title */
@@ -78,6 +127,11 @@
   padding-top: 19px;
 }
 
+.carousel-arrow:hover {
+  color: #3cc;
+  background-color: #d3d3d3;
+}
+
 /* read-more popup */
 .project_text {
   position: absolute;
@@ -129,7 +183,7 @@
     width: 80%;
     margin: 12px;
     position: relative;
-    
+
     /* overflow-x: scroll; */
     padding: 0 15px;
     margin-top: 0;
@@ -203,6 +257,7 @@
   flex-direction: column;
   gap: 10px;
   padding-bottom: 59px;
+  margin-bottom: 66px;
 }
 
 .program-title {
