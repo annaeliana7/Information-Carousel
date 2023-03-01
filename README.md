@@ -67,7 +67,7 @@ Overall, the repository's features are designed to enhance user experience, maki
 
 ## Project Demo Image
 <br>
-<img align="center" src="assets-README/Project_Demo_3_Features.png" alt="logo" width="100%"  height="auto" />
+<img align="center" src="assets-README/Project_Demo_3_Features.png" alt="logo" width="88%"  height="auto" />
 
   <br/>
 
